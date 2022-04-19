@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of enthusiasts developers and skilled designers can provide the best tech solution for your digital product at any stage of it's growth.

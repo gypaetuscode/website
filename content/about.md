@@ -3,48 +3,23 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+A small software development company with a lot of energy and enthusiasm, built from scratch by a bunch of cool geeks, whos only single purpose is to do their best during this digital reality building process.
 
-## Ne verba patulosque numen vix libet
+Without knowing the definition of "impossible", the small team started to code in a small and  historical city, Alba Iulia, located in the heart of Transylvania. Here, somewhere inside the walls of the Alba Carolina Citadel (an old citadel built in the eighteenth century), a big saga was about to start in the begining of 2019 when the team started to face the industry struggles.
+## Mission
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Despite the fact of facing the industry **challenges**, our company will be able to provide the  **best tech solutions** to the customer. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Vision
+```
+"Your focus determines your reality." - Qui-Gon Jinn
+```
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The constant focus and the persistence are the key to success, a concept defined by **scalability**, **maintainability** and **simplicity**, all together in a great software solution shipped by our team of experts.
+## Objectives
 
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+- Building the **Digital Future**
+- Providing viable & scalable digital solutions 
+- Contributing to Open Source projects
+- Returing value to comunity
+- Enjoing a cup of coffee every morning &#9749;
