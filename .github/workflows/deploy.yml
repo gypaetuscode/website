@@ -4,7 +4,7 @@ on:
     tags:
       - "**"
 jobs:
-  Explore-GitHub-Actions:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: deploy-step
@@ -13,7 +13,7 @@ jobs:
           host: ${{secrets.SSH_HOST}}
           key: ${{secrets.SSH_KEY}}
           username: ${{secrets.SSH_USERNAME}}
-          scripts: |
+          script: |
             cd /var/www/site 
             git clone git@github.com:gypaetuscode/website.git
             echo "Repo is cloned"
