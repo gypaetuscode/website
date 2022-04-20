@@ -1,4 +1,4 @@
-name: GypaetusCode Website Deployment
+name: Deployment
 on:
   push:
     tags:
