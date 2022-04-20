@@ -7,14 +7,22 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: deploy-step
-        uses: appleboy/ssh-action@v0.1.4
+      - uses: actions/checkout@v3
         with:
-          host: ${{secrets.SSH_HOST}}
-          key: ${{secrets.SSH_KEY}}
-          username: ${{secrets.SSH_USERNAME}}
-          script: |
-            cd /var/www/gypaetuscode.com/website 
-            git fetch --tags
-            git checkout ${{github.ref_name}}            
-            git pull
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.91.2'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
