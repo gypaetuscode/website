@@ -1,0 +1,19 @@
+name: GypaetusCode Website Deployment
+on:
+  push:
+    tags:
+      - "**"
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: deploy-step
+        uses: appleboy/ssh-action@v0.1.4
+        with:
+          host: ${{secrets.SSH_HOST}}
+          key: ${{secrets.SSH_KEY}}
+          username: ${{secrets.SSH_USERNAME}}
+          scripts: |
+            cd /var/www/site 
+            git clone git@github.com:gypaetuscode/website.git
+            echo "Repo is cloned"
