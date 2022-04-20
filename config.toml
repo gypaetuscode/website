@@ -1,7 +1,7 @@
 baseURL = "https://gypaetuscode.com"
 languageCode = "en-us"
 title = "Gypaetus Code"
-themesDir = "./themes/"
+themesDir = "../.."
 theme = "hugo-serif-theme"
 
 [module]

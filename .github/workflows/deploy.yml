@@ -1,8 +1,5 @@
 name: Deployment
-on:
-  push:
-    tags:
-      - "**"
+on: [push]
 jobs:
   deploy:
     runs-on: ubuntu-latest
