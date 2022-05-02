@@ -31,10 +31,10 @@ and use the resulted files in `./public` to serve via a webserver (nginx or apac
 
 ### Theme bootstrapping
 
-The website uses `hugo-serif-theme` as default theme. It needs to be installed using `bootstrapTheme.sh`
+The website uses `hugo-serif-theme` as default theme. It needs to be installed using `setup.sh`
 
 ```
-sh ./bootstrapTheme.sh
+sh ./setup.sh
 ```
 
 The script will remove old theme files (if they exist), clone the theme and cleanup the directory to be ready for use
