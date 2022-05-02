@@ -27,3 +27,14 @@ hugo
 ```
 
 and use the resulted files in `./public` to serve via a webserver (nginx or apache).
+
+
+### Theme bootstrapping
+
+The website uses `hugo-serif-theme` as default theme. It needs to be installed using `bootstrapTheme.sh`
+
+```
+sh ./bootstrapTheme.sh
+```
+
+The script will remove old theme files (if they exist), clone the theme and cleanup the directory to be ready for use
