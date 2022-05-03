@@ -13,4 +13,4 @@ While we're good with smoke signals, there are simpler ways for us to get in tou
 | Thursday  | 8:00am - 6:00pm |
 | Friday    | 8:00am - 6:00pm |
 | Saturday  | 10:00am - 4:00pm  |
-| Saturday  | Closed          |
+| Sunday    | Closed          |
